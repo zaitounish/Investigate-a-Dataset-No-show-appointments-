@@ -1,11 +1,10 @@
-# Investigate-a-Dataset-No-show-appointments-
+# Investigate-a-Dataset-No-show-appointments
 
 This dataset collects information from 100k medical appointments in Brazil and is focused on the question of whether or not patients show up for their appointment.<br> 
 A number of characteristics about the patient are included in each row. <br>
 
-## clarifications
+## Clarifications
 <br>
-<hr>
 <ul>
 <li>‘ScheduledDay’ tells us on what day the patient set up their appointment.</li>
 <li>‘Neighborhood’ indicates the location of the hospital.</li>
