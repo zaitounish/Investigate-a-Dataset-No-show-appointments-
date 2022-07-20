@@ -11,8 +11,9 @@ A number of characteristics about the patient are included in each row. <br>
 <li>Be careful about the encoding of the last column: it says ‘No’ if the patient showed up to their appointment, and ‘Yes’ if they did not show up.</li>
 </ul>
 <br>
+
 ## Technologies Used <br>
-#### Python Libraries:
+Python Libraries:
 <ul>
 <li>NumPy</li>
 <li>pandas</li>
